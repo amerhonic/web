@@ -138,3 +138,74 @@ input {
   position: relative;
   right: -44%;
 }
+.sve {
+  width: 100%;
+  height: 100vh;
+}
+.glas {
+  padding-top: 50px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ozb {
+  display: flex;
+}
+.baleor {
+  width: 100%;
+}
+.ikona {
+  margin-right: 10px;
+  display: inline-block;
+}
+.miki {
+  height: 100%;
+}
+.ikona i {
+  font-size: 2.4rem;
+  color: #001f8d;
+  margin-right: 10px;
+}
+
+.baleor {
+  display: flex;
+  padding-right: 25px;
+}
+.miki h4 {
+  margin-bottom: 7px;
+}
+.miki p {
+  font-size: 15px;
+  color: #132848;
+  margin-bottom: 7px;
+}
+.miki a {
+  text-decoration: none;
+  color: #153c78;
+  font-size: 13px;
+  margin-right: 3px;
+}
+.miki i {
+  font-size: 13px;
+  position: relative;
+  bottom: -0.4px;
+}
+.ikona i {
+  align-items: center;
+}
+.baleor:hover h4 a i {
+  color: #7007e0;
+}
+.baleor:hover {
+  cursor: pointer;
+  color: #7007e0;
+  transition: 1s;
+}
+.baleor:hover a {
+  color: #7007e0;
+  transition: 1s;
+}
+.baleor:hover i {
+  color: #7007e0;
+  transition: 1s;
+}
