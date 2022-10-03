@@ -2,6 +2,10 @@
   margin: 0px;
   box-sizing: border-box;
 }
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+body {
+  font-family: "Open Sans", sans-serif;
+}
 .main {
   width: 100%;
 
@@ -215,7 +219,7 @@ input {
 }
 .padding {
   width: 80%;
-  padding-top: 120px;
+  padding-top: 100px;
   display: flex;
   margin-left: auto;
   margin-right: auto;
@@ -235,11 +239,12 @@ input {
   display: flex;
 }
 .aegon p {
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 .nesto h4 {
   font-size: 1.2rem;
   margin-bottom: 10px;
+  color: #19335c;
 }
 .konai i {
   margin-right: 14px;
@@ -249,4 +254,42 @@ input {
 }
 .winter img {
   width: 100%;
+  padding-top: 10px;
+}
+.winter {
+  margin-left: 20px;
+}
+.bro {
+  padding-top: 100px;
+  width: 80%;
+  height: 140vh;
+  margin-left: auto;
+  margin-right: auto;
+}
+.naslovcic {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.naslovcic h2 {
+  text-align: center;
+  font-size: 2.1rem;
+  color: #001973;
+  margin-bottom: 25px;
+}
+.smite {
+  border-bottom: 3px solid;
+  width: 5%;
+  position: relative;
+  right: -47.6%;
+  border-color: blue;
+  padding-bottom: 15px;
+}
+
+.kartice {
+  width: 100%;
+  height: 80%;
+  flex-wrap: wrap;
+}
+.kartica {
 }
