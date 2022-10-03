@@ -209,3 +209,44 @@ input {
   color: #7007e0;
   transition: 1s;
 }
+.sekcija {
+  width: 100%;
+  height: 60vh;
+}
+.padding {
+  width: 80%;
+  padding-top: 120px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.aegon {
+  width: 50%;
+}
+.winter {
+  width: 50%;
+}
+.aegon h3 {
+  font-size: 2.2rem;
+  color: #001f8d;
+  margin-bottom: 10px;
+}
+.tron {
+  display: flex;
+}
+.aegon p {
+  margin-bottom: 30px;
+}
+.nesto h4 {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+.konai i {
+  margin-right: 14px;
+  padding-top: 2px;
+  font-size: 2rem;
+  color: #0d42ff;
+}
+.winter img {
+  width: 100%;
+}
