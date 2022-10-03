@@ -260,7 +260,7 @@ input {
   margin-left: 20px;
 }
 .bro {
-  padding-top: 100px;
+  padding-top: 50px;
   width: 80%;
   height: 140vh;
   margin-left: auto;
@@ -290,6 +290,32 @@ input {
   width: 100%;
   height: 80%;
   flex-wrap: wrap;
+  display: flex;
 }
 .kartica {
+  width: 33%;
+  height: 50vh;
+  padding-left: 12px;
+  padding-right: 12px;
+  margin-top: 20px;
+}
+.mim {
+  width: 100%;
+  height: 100%;
+  border: 1px solid rgba(14, 29, 52, 0.2);
+}
+.mim img {
+  height: 65%;
+  width: 100%;
+  margin-bottom: 12px;
+}
+.slidza {
+  height: 100%;
+}
+.mim h3 {
+  padding: 10px 30px;
+  color: #001973;
+}
+.mim p {
+  padding: 0px 30px;
 }
