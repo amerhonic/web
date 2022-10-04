@@ -262,7 +262,7 @@ input {
 .bro {
   padding-top: 30px;
   width: 80%;
-  height: 140vh;
+  height: 130vh;
   margin-left: auto;
   margin-right: auto;
 }
@@ -330,4 +330,108 @@ input {
 }
 .mim:hover h3 {
   color: #0d42ff;
+}
+.calltoaction {
+  width: 100%;
+  height: 35vh;
+}
+.svekodove {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 8vh;
+}
+.calltoaction {
+  background-image: url(./sta/pikacu.jpeg);
+  padding-bottom: 70px;
+}
+.svekodove {
+  justify-items: center;
+}
+.svekodove h3 {
+  color: #fff;
+  text-align: center;
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+}
+.pise {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.pise p {
+  color: #fff;
+  text-align: center;
+  text-align-last: center;
+  margin-bottom: 40px;
+}
+.pise a {
+  text-decoration: none;
+  color: #fff;
+  text-align: center;
+}
+.omar {
+  width: 100%;
+  margin-left: auto;
+  text-align: center;
+}
+.omar a {
+  border: 2px solid;
+  border-color: #fff;
+  padding: 12px 40px;
+  border-radius: 4px;
+}
+.nekad:hover {
+  background-color: #0d42ff;
+}
+#nekad:hover {
+  background-color: #0d42ff;
+  border-color: transparent;
+  transition: 0.5s;
+}
+.novi {
+  height: 160vh;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 80px;
+}
+.agresiva {
+  display: flex;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50vh;
+}
+.majka {
+  width: 50%;
+}
+.babo {
+  width: 50%;
+  padding-top: 50px;
+  padding-left: 25px;
+}
+.majka img {
+  width: 100%;
+  height: 100%;
+}
+.babo h3 {
+  color: #001973;
+  margin-bottom: 15px;
+  font-size: 1.5rem;
+}
+.babo p {
+  margin-bottom: 35px;
+}
+.babo ul {
+  list-style: none;
+  padding-left: 0px;
+}
+.babo i {
+  color: #0d42ff;
+  font-size: 12px;
+  padding-right: 7px;
+}
+.babo li {
+  padding-bottom: 25px;
 }
