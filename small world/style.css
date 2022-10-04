@@ -323,6 +323,7 @@ input {
 }
 .mim:hover img {
   transform: scale(1.2);
+  cursor: pointer;
 }
 .omg {
   overflow: hidden;
@@ -390,7 +391,7 @@ input {
   transition: 0.5s;
 }
 .novi {
-  height: 160vh;
+  height: 200vh;
   width: 90%;
   margin-left: auto;
   margin-right: auto;
@@ -457,10 +458,34 @@ input {
   height: 80%;
 }
 .pertle {
-  padding-top: 70px;
+  padding-top: 120px;
 }
 .pertle h3 {
   font-size: 1.5rem;
   color: #001973;
-  padding-bottom: 35px;
+  padding-bottom: 25px;
+}
+.pertle p {
+  font-style: italic;
+  padding-bottom: 20px;
+  font-size: 1.1rem;
+}
+.pertle p:nth-of-type(2) {
+  font-style: normal;
+}
+.mikica {
+  margin-top: 80px;
+  height: 50vh;
+  width: 100%;
+  display: flex;
+}
+.maca {
+  width: 40%;
+}
+.tebe {
+  width: 60%;
+}
+.maca img {
+  width: 100%;
+  height: 80%;
 }
