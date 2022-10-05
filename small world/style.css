@@ -44,6 +44,9 @@ nav {
 .vugla li {
   padding: 10px 0px 10px 30px;
 }
+.nav ul {
+  text-align: center;
+}
 .vugla h1 {
   padding-top: 20px;
   color: white;
@@ -493,4 +496,24 @@ input {
   padding-left: 25px;
   padding-top: 40px;
   font-size: 1.6rem;
+  padding-bottom: 20px;
+  color: #001f8d;
+}
+.tebe p {
+  padding-left: 25px;
+  line-height: 25px;
+  padding-bottom: 30px;
+}
+.tebe ul {
+  list-style: none;
+  padding-left: 0px;
+}
+.tebe li {
+  padding-bottom: 25px;
+}
+.tebe i {
+  padding-left: 25px;
+  color: #0d42ff;
+  font-size: 12px;
+  padding-right: 10px;
 }
