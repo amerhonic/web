@@ -830,3 +830,68 @@ input {
 .pitanja {
   margin-bottom: 15px;
 }
+.stopalo {
+  height: 40vh;
+  background-color: #0e1d34;
+  width: 100%;
+}
+.prst {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+}
+.c {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+.c .prvi {
+  width: 41.66667%;
+  padding-top: 40px;
+}
+.c .drugi {
+  width: 16.66667%;
+}
+.c .treci {
+  width: 16.66667%;
+}
+.c .cetvrti {
+  width: 25%;
+}
+.prvi a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 35px;
+}
+.prvi p {
+  color: #fff;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+.prljavo i {
+  font-size: 20px;
+}
+.prljavo a {
+  border: 1px solid;
+  margin: 10px;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  border-color: rgba(255, 255, 255, 0.2);
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+.prljavo {
+  display: flex;
+}
+.stopalo .prljavo a {
+  justify-items: center;
+  align-items: center;
+}
+.prljavo i {
+  width: 100%;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.7);
+}
