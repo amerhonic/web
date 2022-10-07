@@ -576,7 +576,7 @@ input {
 }
 .haosevi {
   width: 90%;
-  height: 120vh;
+  height: 106vh;
   margin-left: auto;
   margin-right: auto;
   padding-top: 120px;
@@ -703,4 +703,55 @@ input {
   box-shadow: 0 3px 20px -2px rgb(108 117 125 / 15%);
 
   border-radius: 8px;
+}
+.saul {
+  margin-top: 100px;
+  height: 50vh;
+  width: 100%;
+  background-image: url(./sta/matt.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.svega img {
+  border-radius: 50%;
+  height: 100px;
+  border: 6px solid rgba(255, 255, 255, 0.15);
+  margin-bottom: 20px;
+}
+.svega {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-top: 50px;
+}
+.svega h3 {
+  color: #fff;
+  margin-bottom: 4px;
+}
+.svega h4 {
+  color: rgba(255, 255, 255, 0.6);
+  margin-bottom: 10px;
+}
+.zvezde i {
+  color: #ffc107;
+  margin-bottom: 20px;
+}
+.para p {
+  text-align-last: center;
+  line-height: 25px;
+  color: #fff;
+  font-style: italic;
+}
+.kako i {
+  position: relative;
+  top: -5px;
+  left: -10px;
+  color: rgba(255, 255, 255, 0.6);
+}
+.ovo i {
+  position: relative;
+  right: -15px;
+  color: rgba(255, 255, 255, 0.6);
+  bottom: -5px;
 }
