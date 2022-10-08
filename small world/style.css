@@ -895,3 +895,33 @@ input {
   text-align: center;
   color: rgba(255, 255, 255, 0.7);
 }
+.drugi ul {
+  list-style: none;
+  padding-left: 0px;
+}
+.drugi h4 {
+  color: #fff;
+  margin-bottom: 15px;
+}
+.drugi a {
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
+}
+.drugi {
+  padding-top: 50px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.drugi li {
+  margin-bottom: 15px;
+}
+.drugi:nth-last-of-type(2) {
+  padding-right: 30px;
+}
+.c .drugi:nth-of-type(4) {
+  width: 25%;
+}
+.drugi p {
+  color: #fff;
+  line-height: 1.5rem;
+}
