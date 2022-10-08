@@ -831,7 +831,7 @@ input {
   margin-bottom: 15px;
 }
 .stopalo {
-  height: 40vh;
+  height: 50vh;
   background-color: #0e1d34;
   width: 100%;
 }
@@ -843,7 +843,7 @@ input {
 }
 .c {
   width: 100%;
-  height: 100%;
+  height: 80%;
   display: flex;
 }
 .c .prvi {
@@ -924,4 +924,20 @@ input {
 .drugi p {
   color: #fff;
   line-height: 1.5rem;
+}
+.coin {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 10vh;
+}
+.coin {
+  text-align: center;
+}
+.coin {
+  color: #fff;
+  font-size: 14px;
+}
+.pollish {
+  margin-bottom: 7px;
 }
