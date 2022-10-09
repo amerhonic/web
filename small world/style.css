@@ -1812,4 +1812,39 @@ input {
   .prljavo i {
     font-size: 20px;
   }
+  .prljavo a {
+    border: 1px solid;
+    margin: 10px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    border-color: rgba(255, 255, 255, 0.2);
+    display: flex;
+    justify-items: center;
+    align-items: center;
+  }
+  .prljavo {
+    display: flex;
+  }
+  .stopalo .prljavo a {
+    justify-items: center;
+    align-items: center;
+  }
+  .prljavo i {
+    width: 100%;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+  }
+  .drugi ul {
+    list-style: none;
+    padding-left: 0px;
+  }
+  .drugi h4 {
+    color: #fff;
+    margin-bottom: 15px;
+  }
+  .drugi a {
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+  }
 }
