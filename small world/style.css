@@ -942,6 +942,31 @@ input {
   margin-bottom: 7px;
 }
 
-@media (min-width:450px) and (max-width:700px) {
-  
+@media (min-width:350px) and (max-width:500px) {
+  .vugla ul {
+    visibility: hidden;
+  }
+  .nece a {
+    font-size:0.9rem;
+    margin-top: 0.2rem;
+    
+  }
+  .vugla {
+    width: 100%;
+    margin-left: 1.3rem;
+  }
+  .glava {
+    width: 100%;
+  }
+  .blackbeatles {
+    height: 80vh;
+  }
+  .confiscate {
+    width: 100%;
+  }
+ .onono {
+  height: 70%;
+  display: flex;
+ }
+ .the
 }
